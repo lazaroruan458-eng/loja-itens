@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\lazaro\loja-itens\bin\Debug\net9.0\loja-itens.exe
+C:\Users\Aluno\Documents\lazaro\loja-itens\bin\Debug\net9.0\loja-itens.deps.json
+C:\Users\Aluno\Documents\lazaro\loja-itens\bin\Debug\net9.0\loja-itens.runtimeconfig.json
+C:\Users\Aluno\Documents\lazaro\loja-itens\bin\Debug\net9.0\loja-itens.dll
+C:\Users\Aluno\Documents\lazaro\loja-itens\bin\Debug\net9.0\loja-itens.pdb
+C:\Users\Aluno\Documents\lazaro\loja-itens\obj\Debug\net9.0\loja-itens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\lazaro\loja-itens\obj\Debug\net9.0\loja-itens.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\lazaro\loja-itens\obj\Debug\net9.0\loja-itens.AssemblyInfo.cs
+C:\Users\Aluno\Documents\lazaro\loja-itens\obj\Debug\net9.0\loja-itens.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\lazaro\loja-itens\obj\Debug\net9.0\loja-itens.sourcelink.json
+C:\Users\Aluno\Documents\lazaro\loja-itens\obj\Debug\net9.0\loja-itens.dll
+C:\Users\Aluno\Documents\lazaro\loja-itens\obj\Debug\net9.0\refint\loja-itens.dll
+C:\Users\Aluno\Documents\lazaro\loja-itens\obj\Debug\net9.0\loja-itens.pdb
+C:\Users\Aluno\Documents\lazaro\loja-itens\obj\Debug\net9.0\loja-itens.genruntimeconfig.cache
+C:\Users\Aluno\Documents\lazaro\loja-itens\obj\Debug\net9.0\ref\loja-itens.dll
